@@ -1,0 +1,7 @@
+D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe
+D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.pdb
+D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Debug\DemoWindoserviceBlog.exe
+D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Debug\DemoWindoserviceBlog.pdb
+D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe.config
+D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Debug\DemoWindoserviceBlog.ProjectInstaller.resources
+D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Debug\DemoWindoserviceBlog.csproj.GenerateResource.Cache

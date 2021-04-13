@@ -1,0 +1,66 @@
+﻿Uninstalling assembly 'D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.InstallLog
+   assemblypath = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe
+Removing EventLog source DemoWindowserviceBlog.
+Service DemoWindowserviceBlog is being removed from the system...
+Service DemoWindowserviceBlog was successfully removed from the system.
+Attempt to stop service DemoWindowserviceBlog.
+Installing assembly 'D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.InstallLog
+   assemblypath = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe
+Installing service DemoWindowserviceBlog...
+Service DemoWindowserviceBlog has been successfully installed.
+Creating EventLog source DemoWindowserviceBlog in log Application...
+Committing assembly 'D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.InstallLog
+   assemblypath = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe
+Uninstalling assembly 'D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.InstallLog
+   assemblypath = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe
+Removing EventLog source DemoWindowserviceBlog.
+Service DemoWindowserviceBlog is being removed from the system...
+Service DemoWindowserviceBlog was successfully removed from the system.
+Attempt to stop service DemoWindowserviceBlog.
+Installing assembly 'D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.InstallLog
+   assemblypath = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe
+Installing service DemoWindowserviceBlog...
+Service DemoWindowserviceBlog has been successfully installed.
+Creating EventLog source DemoWindowserviceBlog in log Application...
+Committing assembly 'D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.InstallLog
+   assemblypath = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe
+Uninstalling assembly 'D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.InstallLog
+   assemblypath = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe
+Removing EventLog source DemoWindowserviceBlog.
+Service DemoWindowserviceBlog is being removed from the system...
+Service DemoWindowserviceBlog was successfully removed from the system.
+Attempt to stop service DemoWindowserviceBlog.
+Installing assembly 'D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.InstallLog
+   assemblypath = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe
+Installing service DemoWindowserviceBlog...
+Service DemoWindowserviceBlog has been successfully installed.
+Creating EventLog source DemoWindowserviceBlog in log Application...
+Committing assembly 'D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.InstallLog
+   assemblypath = D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe
